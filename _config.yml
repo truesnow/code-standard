@@ -1,0 +1,22 @@
+# accessed via {{ site.myvariable }}
+
+title: Code standard by truesnow
+email: chrisx0909@gmail.com
+description: >-
+  Code standard summary during work. Such as MySQL standard,
+  tech scheme standard, error code standard, service app id standard, etc.
+baseurl: ""
+url: ""
+# twitter_username: jekyllrb
+github_username:  truesnow
+
+# Build settings
+# theme: minima
+remote_theme: ronv/colorie
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - disqus-for-jekyll
