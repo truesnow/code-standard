@@ -5,8 +5,8 @@ email: chrisx0909@gmail.com
 description: >-
   Code standard summary during work. Such as MySQL standard,
   tech scheme standard, error code standard, service app id standard, etc.
-baseurl: "https://truesnow.github.io/code-standard/"
-url:
+baseurl: "/code-standard"
+url: "https://truesnow.github.io"
 # twitter_username: jekyllrb
 github_username:  truesnow
 
